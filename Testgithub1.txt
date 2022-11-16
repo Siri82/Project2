@@ -1,1 +1,2 @@
 This is the test for commit command
+Updating in the git hub to see the changes in the local repo
